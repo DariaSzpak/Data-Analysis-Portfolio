@@ -1,7 +1,10 @@
 # 📉 Customer Churn Analysis – Guided DataCamp Excel Project
 
 ## Project Overview
-This is a beginner-friendly exploratory data analysis project focused on understanding why customers are churning at a fictitious telecom company. The project was originally completed as part of a **DataCamp Excel course**. The main task was to identify key patterns and customer behaviours associated with churn using various Excel tools.
+This is a beginner-friendly exploratory data analysis project focused on understanding why customers are churning at a fictitious telecom company. The project was originally completed as part of a **DataCamp Excel course**
+[Case Study: Analyzing Customer Churn in Excel](https://app.datacamp.com/learn/courses/case-study-analyzing-customer-churn-in-excel).  
+It was adapted and documented here as part of my learning portfolio.
+The main task was to identify key patterns and customer behaviours associated with churn using various Excel tools.
 
 ## Tools Used
 - Microsoft Excel
