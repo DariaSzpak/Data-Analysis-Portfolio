@@ -15,7 +15,7 @@ The main task was to identify key patterns and customer behaviours associated wi
 
 ## Dataset Overview
 The dataset consists of fictional customer data from a telecom provider, including:
-- **Demographic Information**: Age, Gender, State
+- **Demographic Information**: Age, State, etc. 
 - **Account Details**: Length of subscription, Contract type, Charges
 - **Service Usage**: Data usage, Premium plans, International usage
 - **Churn**: Churn label and stated reasons
