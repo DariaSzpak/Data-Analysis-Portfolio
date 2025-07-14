@@ -1,7 +1,1 @@
-# Data Analysis
 
-| animal | weight | color  |
-|--------|-------:|:------:|
-| dog    | 30lb   | tan    |
-| dog    | 85lb   | black  |
-| cat    | 18lb   | calico |
