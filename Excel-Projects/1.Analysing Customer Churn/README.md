@@ -29,7 +29,18 @@ The dataset consists of fictional customer data from a telecom provider, includi
 - **Visualisation**: Built supporting charts and a dashboard to summarise key metrics
 
 ## Examples of Pivot Tables
-*(Screenshots coming soon)*
+
+### Competitor churn analysis
+![Churn by Competitor](pivot-competitor.png)
+
+### Churn Rate by age group
+![Churn by Age](pivot-age-group.png)
+
+### Churn Rate by contract lenght
+![Churn by Contract](pivot-lenght-contract.png)
+
+### Churn Rate by data usage and plan type
+![Churn by Data](pivot-plan-data.png)
 
 ## 📈 Dashboard
 A summary dashboard was created to visualise the main findings.  
