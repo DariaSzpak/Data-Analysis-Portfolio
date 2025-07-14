@@ -45,10 +45,6 @@ The dataset consists of fictional customer data from a telecom provider, includi
 ### Churn Rate by data usage and plan type
 ![Churn by Data](pivot-plan-data.png)
 
-## 📈 Dashboard
-A summary dashboard was created to visualise the main findings.  
-👉 *See attached PDF file: `customer_churn_dashboard.pdf`*
-
 ## 💡 Key Insights
 
 - The **most common churn reason** was competitor-related: better offers, better devices, and dissatisfaction with support agents.
@@ -57,6 +53,11 @@ A summary dashboard was created to visualise the main findings.
 - Customers on **month-to-month contracts** had the **highest churn rate**.
 - Churn tended to **decrease over time** — customers who had been with the company longer were more likely to stay.
 - Certain **states with international plan users** had disproportionately high churn rates.
+
+##  Dashboard
+A summary dashboard was created to visualise the main findings. 
+
+![Dashboard](churn-dashboard.png)
 
 ## What I Learned
 
