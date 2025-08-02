@@ -9,7 +9,7 @@ This project explores customer churn patterns using a fictional telecom dataset.
 
 ## 📁 Project 2: Data Science Jobs UK - 2024
 
-This project explores UK tech job salaries using a public data set. IT demonstrates core Excel and Power Query skills including data cleaning, pivot tables and visualisations. Key insights include salary differences by region, job type and company.
+This project explores UK tech job salaries using a public data set. It demonstrates core Excel and Power Query skills including data cleaning, pivot tables and visualisations. Key insights include salary differences by region, job type and company.
 
 🔗 [View the full project here](./2.Data%20Cleaning%20and%20EDA%20(Power%20Query)%20-%20Data%20Science%20Job%20Roles%20(UK)/README.md)
 
