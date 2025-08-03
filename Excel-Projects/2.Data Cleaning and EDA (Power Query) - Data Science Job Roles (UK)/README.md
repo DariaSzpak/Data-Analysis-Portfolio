@@ -46,7 +46,8 @@ Midlothian → Scotland, County Durham → England, United Kingdom → Unknown
 * Cleaned the Salary column:
 Removed special characters (K, text tags like "Glassdoor est.")
 Removed hourly wage entries.
-Transformed salary ranges into single average values.
+* Transformed salary ranges into single average values.
+* Grouped job titles into broader categories (e.g., Data Scientist, Data Engineer, etc.) for better analysis.
 * Added a new workbook where job skills were split into rows from a comma-separated column, enabling frequency analysis of requested skills across roles.
 * Performed basic EAD using Pivot Rables to answer analytical questions
 
