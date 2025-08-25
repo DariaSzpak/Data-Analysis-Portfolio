@@ -25,7 +25,7 @@ Questions:
 ## Dataset Overview
 The dataset contains 1,026 rows of customer information, including: 
 
-- **Demographics**: Gender, marital status, income, education, occupation, age
+- **Demographics**: Gender, martial status, income, education, occupation, age
 - **Household factors**: Home ownership, number of cars
 - **Behavioural**: Commute distance, bike purchase (Yes/No)
 
@@ -40,7 +40,7 @@ The dataset contains 1,026 rows of customer information, including:
 - Adolescent <31
 - Adult 31-54
 - Old >54
-* Standardised commute distance values
+* Standardised commute siatnce values
 
 Pivot tables were used to prepare the dashboard:
 - Gender, Average Income and Bike Purchase
