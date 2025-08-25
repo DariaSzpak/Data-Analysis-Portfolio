@@ -13,3 +13,9 @@ This project explores UK tech job salaries using a public data set. It demonstra
 
 🔗 [View the full project here](./2.Data%20Cleaning%20and%20EDA%20(Power%20Query)%20-%20Data%20Science%20Job%20Roles%20(UK)/README.md)
 
+
+## 📁 Project 3: Bike Buyer Demographics Analysis
+
+This project focuses on analyzing bike buyer demographics using a fictional dataset. It demonstrates key Excel skills including data cleaning, pivot tables, and dashboard creation.
+
+🔗 [View the full project here](./3.Data%20Cleaning%20and%20Analysis%20(with%20Dashboard)%20-%20Bike%20Buyer%20Demographics%20(Guided)/README.md)
