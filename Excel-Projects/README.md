@@ -18,4 +18,4 @@ This project explores UK tech job salaries using a public data set. It demonstra
 
 This project focuses on analyzing bike buyer demographics using a fictional dataset. It demonstrates key Excel skills including data cleaning, pivot tables, and dashboard creation.
 
-🔗 [View the full project here](./3.Data%20Cleaning%20and%20Analysis%20(with%20dashboard)%20-%20Bike%20Buyer%20Demographics%20(Guided)/README.md)
+🔗 [View the full project here](./3.Data%20Cleaning%20and%20Analysis%20(with%20dashboard)%20-%20Bike%20Buyer%20Demographics%20(Guided)%20/README.md)
